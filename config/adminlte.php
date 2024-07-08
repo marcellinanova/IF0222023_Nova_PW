@@ -337,6 +337,10 @@ return [
                 [
                     'text' => 'Fakultas',
                     'url' => '/fakultas',
+                ],
+                [
+                    'text' => 'Data Fakultas',
+                    'url' => '/sekolah',
                 ]
             ],
         ]
